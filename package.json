@@ -1,0 +1,12 @@
+{
+  "name": "homely-landing-page",
+  "version": "1.0.0",
+  "description": "Homely Real Estate Landing Page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
